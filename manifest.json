@@ -9,5 +9,7 @@
   "icons": {
     "16": "assets/icon.png"
   },
-  "background": { "page": "background.html" }
+  "background": {
+    "scripts": ["./main.js"]
+  }
 }
