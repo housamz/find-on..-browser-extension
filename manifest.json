@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Find on ..",
-  "short_name": "Mapper",
-  "description": "Searches for the selected text in Google Maps, Wikipedia, and Google Search.",
+  "short_name": "Finder",
+  "description": "Chrome extension that allows you to quickly search selected text across multiple popular platforms directly from the context menu",
   "version": "0.0.1",
   "permissions": ["contextMenus"],
   "host_permissions": ["<all_urls>"],
